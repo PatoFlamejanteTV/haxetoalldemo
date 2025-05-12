@@ -1,0 +1,6 @@
+-cp src
+-main Main
+#-cs bin/cs
+#-java bin/java
+#-python bin/python/main.py
+#-php bin/php
